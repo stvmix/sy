@@ -1,11 +1,35 @@
 #EXTM3U list-name="TV" list-image=""
 
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JÓVENES Y ADULTOS",Adult Swim 190.61.42.218:9000
+http://190.61.42.218:9000/play/a00u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Animación y Cultura Geek",AnimeStation | Argentina
+#EXTINF:-1 tvg-name="AnimeStation" tvg-id="AnimeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="JOVENES Y ADULTOS",AnimeStation | Argentina
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="Animación y Cultura Geek",Anime Onegai Deportes | ND
+#EXTINF:-1 tvg-id="Ani Retro" tvg-name="Ani Retro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title= "JOVENES Y ADULTOS",Ani Retro | Chile
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
+#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="JÓVENES Y ADULTOS",Anime Onegai Deportes | ND
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 
-#EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="Animación y Cultura Geek",Anime Onegai Acción | ND
+#EXTINF:-1 tvg-id="Anime Onegai Tv" tvg-name="Anime Onegai Tv" tvg-logo="https://www.animeonegai.com/assets/img/anime/general/ao3.png" group-title="JÓVENES Y ADULTOS",Anime Onegai Acción | ND
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
+
+#EXTINF:-1 tvg-id="Kanade Tv" tvg-name="Kanade Tv" tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="JÓVENES Y ADULTOS",Kanade Tv | Argentina
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Locomoción" tvg-name="Locomoción" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="JOVENES Y ADULTOS",Locomoción | República Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Anime" tvg-id="Max Anime" tvg-logo="https://i.imgur.com/aiCirDm.png" group-title="JÓVENES Y ADULTOS",Max Anime | Argentina
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TalTal TV" tvg-id="TalTal TV" tvg-logo="https://i.imgur.com/9efjPBA.png" group-title="JÓVENES Y ADULTOS",Taltal Tv HD | Argentina
+https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://i.imgur.com/4qV8fYs.jpg" group-title="FAMILIARES",GenTV HD | Argentina
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
+#EXTINF:-1 tvg-id="Multicanal Ecuador" tvg-name="Multicanal Ecuador" tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600 /multicanal.png" group-title="FAMILIARES",Multicanal | Ecuador
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
